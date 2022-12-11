@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\bin\Debug\net6.0\climbStairs.exe
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\bin\Debug\net6.0\climbStairs.deps.json
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\bin\Debug\net6.0\climbStairs.runtimeconfig.json
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\bin\Debug\net6.0\climbStairs.dll
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\bin\Debug\net6.0\climbStairs.pdb
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.dll
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\refint\climbStairs.dll
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.pdb
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\climbStairs.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Skrivbord\climbStairs\obj\Debug\net6.0\ref\climbStairs.dll

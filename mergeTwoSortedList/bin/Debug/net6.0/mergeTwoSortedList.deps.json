@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mergeTwoSortedList/1.0.0": {
+        "runtime": {
+          "mergeTwoSortedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mergeTwoSortedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
